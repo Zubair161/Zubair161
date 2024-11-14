@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Zubair161
-- 👀 I’m interested in gaming ...
+- 👋 Hi, I’m Zubair
 - 📫 Reach me by my username ...
 
 <!---
